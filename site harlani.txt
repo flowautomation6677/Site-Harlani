@@ -1,0 +1,39 @@
+eu quero que vc consulte sua memoria e quero que o agente delivery_mediator avalie a situação do cliente e oq eu tem de entrega dos outros agentes, de acordo com o que é possível entregar, o ponto central é que o cliente está vendo prejuízo em o site não estar rodando, mas coloquei como paliativo para não ficar parado com as campanhas do google levarem as pessoas para o whatasapp teve retorno no serviço, venderam assentos teve vendas não sei mensurar quantas, tem Bloco 1: Hero Section (Acima da Dobra)
+[H1] Você abriu uma empresa para lucrar e crescer, não para passar as madrugadas preenchendo planilhas e pagando boletos. [H2] Assumimos a gestão financeira do seu negócio. Do controle diário de entradas e saídas, através da conciliação bancária, Fluxo de caixa mensal, análise e relatório financeiro através de indicadores, até a entrega da sua DRE completa. Pare de tomar decisões baseadas em achismos e descubra para onde está indo o seu dinheiro. [Botão/CTA] Quero agendar meu diagnóstico financeiro [Corpo de Texto - Microcopy abaixo do botão] Sessão estratégica de 30 minutos. Sem compromisso.
+______________
+Bloco 2: PAS (Problema e Agitação)
+Nota de Direção de Arte: Design em blocos escuros para mudar o tom da página. Aqui a leitura precisa ser densa, focada na dor. Ícones simples acompanhando os bullet points.
+[H2] O faturamento aumenta, mas você nunca vê a cor do dinheiro no fim do mês? [Corpo de Texto] Se a sua rotina se resume a apagar incêndios, você não está gerindo um negócio. Você é refém dele. Hoje, você provavelmente:
+•	Paga multas e juros absurdos porque esqueceu o vencimento de um boleto na gaveta.
+•	Tem vergonha ou falta de tempo para cobrar clientes inadimplentes, deixando seu caixa sangrar.
+•	Mistura o dinheiro pessoal com o da empresa, transformando suas finanças em um caos irreversível.
+•	Não faz a menor ideia da sua margem de lucro real.
+[Corpo de Texto] Enquanto você gasta 20 horas por semana sendo um "assistente financeiro caro" da sua própria empresa, quem está focado em atrair novos clientes e fechar vendas? Ninguém. E é exatamente assim que bons negócios quebram.
+______________
+Bloco 3: A Solução (Apresentação do BPO)
+Nota de Direção de Arte: Volte para um fundo claro. Transmita organização e processos. Mostrar um dashboard financeiro limpo ou um gráfico subindo em um tablet ou monitor.
+[H2] Apresentamos a Gestão Financeira 360º. Nós fazemos o trabalho sujo para você focar no que importa: Vender. [Corpo de Texto] Nós não somos uma consultoria que apenas aponta o que está errado. Nós somos o seu departamento financeiro terceirizado e operacional. Colocamos a mão na massa, organizamos a casa e entregamos os números mastigados para você tomar decisões precisas.
+[H3] Como o seu negócio opera com o nosso BPO:
+•	Contas a Pagar e Receber no piloto automático: Sem atrasos, sem multas. Nós agendamos, você só aprova com um clique no seu banco.
+•	Conciliação Bancária Diária: Cada centavo que entra e sai é registrado, categorizado e justificado. Fim do "sumiço" de caixa.
+•	A DRE (Demonstração do Resultado do Exercício): O Raio-X definitivo da sua empresa. Todo mês, entregamos um relatório claro mostrando exatamente onde você está perdendo dinheiro e onde sua margem de lucro é maior.
+•	Fluxo de caixa.
+[Botão/CTA] Quero terceirizar meu financeiro e voltar a crescer
+______________
+Bloco 4: Quebra de Objeções (Perguntas que estão na cabeça do cliente)
+Nota de Direção de Arte: Formato de sanfona (accordion) ou cards lado a lado.
+[H2] "Isso faz sentido para mim, mas..."
+[H3] "Eu vou perder o controle do meu dinheiro?" [Corpo de Texto] Pelo contrário. Você ganha visibilidade absoluta. Nós fazemos a operação, mas a autoridade final é sua. Nenhum pagamento é feito sem a sua aprovação final no banco. Você sai do escuro e passa a enxergar tudo através de relatórios claros.
+[H3] "Isso deve ser muito caro para a minha empresa." [Corpo de Texto] Caro é pagar um salário CLT completo (com férias, 13º e FGTS) para um funcionário júnior cometer erros. Caro é pagar multas por atraso. Nosso BPO custa menos do que um funcionário interno e traz o nível técnico de um diretor financeiro sênior. O BPO se paga apenas com a economia de multas e renegociações que fazemos por você.
+Fora a possibilidade de processos trabalhistas dos seus assistentes financeiros/administrativos.
+[H3] "E se os meus dados vazarem?" [Corpo de Texto] Trabalhamos com sistemas criptografados de nível bancário e contratos de confidencialidade rigorosos (NDA). O sigilo dos seus números é a fundação do nosso negócio.
+______________
+Bloco 5: Prova Social
+Nota de Direção de Arte: Use fotos reais dos clientes. Se não tiver fotos, use prints de conversas no WhatsApp (escondendo dados sensíveis) elogiando o serviço.
+[H2] Empresários que pararam de tentar adivinhar e começaram a lucrar com previsibilidade: [Corpo de Texto] "Eu passava meus domingos lançando notas em planilhas. Hoje, recebo no meu WhatsApp um resumo simples de quanto a empresa faturou, gastou e lucrou no mês. Minha empresa cresceu 40% só porque eu voltei a focar no comercial." — [Nome do Cliente], [Cargo/Empresa]
+______________
+Bloco 6: Oferta Irresistível e CTA Final (Rodapé)
+Nota de Direção de Arte: Fundo com uma cor de destaque da paleta da marca para chamar máxima atenção. Botão gigante.
+[H2] Chegou a hora de tratar a sua empresa como o negócio sério que ela é. [Corpo de Texto] Continuar gerindo seu financeiro na base do improviso não vai te levar ao próximo nível. Vai te levar à exaustão. Dê o primeiro passo hoje. Agende uma sessão de Diagnóstico Financeiro Gratuito. Vamos analisar a sua estrutura atual e desenhar um plano de ação imediato. Se percebermos que não podemos ajudar a melhorar seu caixa, nós mesmos diremos isso a você. O risco é zero.
+[Botão/CTA] Sim! Quero falar com um especialista e organizar meu caixa [Corpo de Texto - Microcopy] Vagas limitadas para diagnóstico na agenda desta semana.
+Pensar em uma forma de não fazer nada de graça, mesmo qu
