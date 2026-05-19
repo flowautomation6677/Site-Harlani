@@ -850,10 +850,14 @@ img {
 /* =========================================================================
    BLOCO 4: FAQ (Accordion)
    ========================================================================= */
+.faq {
+    padding: 8rem 0; /* Aumenta o espaçamento vertical interno da seção inteira no computador */
+}
+
 .two-col-layout {
     display: grid;
     grid-template-columns: 1fr 1.5fr;
-    gap: 4rem;
+    gap: 6rem; /* Aumenta a distância horizontal entre as colunas no computador */
 }
 
 .align-start {
@@ -861,15 +865,28 @@ img {
 }
 
 .faq-text h2 {
-    font-size: 2.5rem;
+    font-size: 2.75rem; /* Aumenta sutilmente o tamanho do título para destacar mais */
+    margin-bottom: 1.75rem; /* Adiciona espaçamento generoso abaixo do título */
+    line-height: 1.25;
+}
+
+.faq-text p {
+    font-size: 1.125rem; /* Aumenta a legibilidade do texto de apoio */
+    line-height: 1.8;
 }
 
 .accordion-item {
     background: rgba(255, 255, 255, 0.03);
     border: 1px solid rgba(255, 255, 255, 0.05);
-    border-radius: var(--radius-md);
-    margin-bottom: 1rem;
+    border-radius: var(--radius-lg); /* Deixa as bordas um pouco mais arredondadas e modernas */
+    margin-bottom: 1.5rem; /* Aumenta a distância entre cada accordion item */
     overflow: hidden;
+    transition: background-color var(--transition-base), border-color var(--transition-base), box-shadow var(--transition-base);
+}
+
+.accordion-item:hover {
+    background: rgba(255, 255, 255, 0.05);
+    border-color: rgba(255, 255, 255, 0.1);
 }
 
 .accordion-header {
@@ -877,7 +894,7 @@ img {
     text-align: left;
     background: none;
     border: none;
-    padding: 1.5rem 2rem;
+    padding: 1.75rem 2.25rem; /* Aumenta o preenchimento interno do cabeçalho */
     color: var(--clr-white);
     display: flex;
     justify-content: space-between;
@@ -887,11 +904,13 @@ img {
 
 .accordion-header h3 {
     margin: 0;
-    font-size: 1.125rem;
+    font-size: 1.25rem; /* Aumenta o texto da pergunta */
+    font-weight: 600;
 }
 
 .accordion-header i {
     transition: transform 0.3s ease;
+    font-size: 1.25rem;
 }
 
 .accordion-item.active .accordion-header i {
@@ -901,13 +920,13 @@ img {
 .accordion-content {
     max-height: 0;
     overflow: hidden;
-    padding: 0 2rem;
+    padding: 0 2.25rem; /* Alinha o padding horizontal com o cabeçalho */
     transition: max-height 0.3s ease, padding 0.3s ease;
 }
 
 .accordion-item.active .accordion-content {
     max-height: 500px;
-    padding: 0 2rem 1.5rem;
+    padding: 0 2.25rem 1.75rem; /* Alinha o padding inferior generoso */
 }
 
 /* =========================================================================
@@ -1417,7 +1436,11 @@ img {
     }
 
     .accordion-header {
-        padding: 1rem;
+        padding: 1.25rem 1.5rem;
+    }
+
+    .accordion-item.active .accordion-content {
+        padding: 0 1.5rem 1.25rem;
     }
 
     .testimonial-card {
