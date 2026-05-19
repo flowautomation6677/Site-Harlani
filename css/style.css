@@ -1340,6 +1340,18 @@ img {
 }
 
 @media (max-width: 768px) {
+    .navbar {
+        padding: 0.75rem 0;
+    }
+
+    .navbar.scrolled {
+        padding: 0.5rem 0;
+    }
+
+    .logo img {
+        height: 64px; /* Aumenta a logo na versão celular para melhor legibilidade */
+    }
+
     h1 {
         font-size: 2rem;
     }
